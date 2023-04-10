@@ -1,3 +1,4 @@
+![Banner (1)](https://user-images.githubusercontent.com/113525473/231005008-76569635-c1b6-4c27-aa69-e62e77682e6f.jpg)
 <h1 align="center">Hi 👋, I'm Sk Mamud Haque</h1>
 <h3 align="center">A passionate ML Student</h3>
 
