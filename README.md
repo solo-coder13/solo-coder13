@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **haquemamud@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15P6vvo28aEM_dLV4PLFh8EPoirOHDS2d8gNn3pFlLfQ/edit?usp=sharing](https://docs.google.com/document/d/15P6vvo28aEM_dLV4PLFh8EPoirOHDS2d8gNn3pFlLfQ/edit?usp=sharing)
+- 📄 Know about my experiences [linktr.ee/Sk_Mamud_Haque](linktr.ee/Sk_Mamud_Haque)
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1336/0*NbQlrmQFOsjPFB-f.gif">
 
