@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo-coder13" alt="solo-coder13" /></a> </p>
 
 - 🔭 I’m currently working on Optimization Problem Based On Global Test Function 
-- [Grey Water Footprint Project](https://github.com/solo-coder13/Grey-Water-Footprint-Project)
+- [Spike Neural Network Project](https://github.com/solo-coder13/Research-Internship-IIIT-Naya-Raipur)
 
 - 📫 How to reach me **haquemamud@gmail.com**
 
