@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sk Mamud Haque</h1>
 <h3 align="center">A passionate ML Student</h3>
 
+[![An image of @solocoder13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/solocoder13)](https://holopin.io/@solocoder13)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solo-coder13&label=Profile%20views&color=0e75b6&style=flat" alt="solo-coder13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo-coder13" alt="solo-coder13" /></a> </p>
