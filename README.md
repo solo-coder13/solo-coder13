@@ -1,5 +1,4 @@
 
-![Fraud-Detection-Machine-Learning-blog](https://user-images.githubusercontent.com/113525473/231100531-79ab3b0d-d4b8-4928-8096-1ca684358772.gif)
 <h1 align="center">Hi 👋, I'm Sk Mamud Haque</h1>
 <h3 align="center">A passionate ML Student</h3>
 
