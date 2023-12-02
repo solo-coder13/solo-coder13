@@ -21,8 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sk-mamud-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-mamud-haque" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/solo-coder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="solo-coder13" height="30" width="40" /></a>
-<a href="https://codesandbox.com/silent13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="silent13" height="30" width="40" /></a>
 <a href="https://kaggle.com/silent13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="silent13" height="30" width="40" /></a>
 <a href="https://hashnode.com/@silent13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@silent13" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/solo_coder13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="solo_coder13" height="30" width="40" /></a>
