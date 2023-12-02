@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [linktr.ee/Sk_Mamud_Haque](linktr.ee/Sk_Mamud_Haque)
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1336/0*NbQlrmQFOsjPFB-f.gif">
 
 - ⚡ Fun fact **I love to draw pictures.**
 
